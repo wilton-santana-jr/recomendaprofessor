@@ -1,15 +1,15 @@
 RecomendaReforço.net
 ==========
 
-[RecomendaReforco.net](RecomendaReforco.net) é uma aplicação que construímos para recomendar professores de aula de reforço com base na disciplina lecionada
-pelo professor [Foi usado Grovvv On Grails](http://200.137.175.6:8080/recomendaprofessor/professor/index)!
+[RecomendaReforco.net](http://200.137.175.6:8080/recomendaprofessor/professor/index) é uma aplicação que construímos para recomendar professores de aula de reforço com base na disciplina lecionada
+pelo professor [Foi usado Grovvy On Grails](http://200.137.175.6:8080/recomendaprofessor/professor/index)!
 
 Essa versão do código é para o Grails 2.4.5 [grails-2.4.5]
 (https://github.com/wiltonmoreirajr/recomendaprofessor).
 
 Licença
 =======
-O [recomendareforco.net](RecomendaReforco.net) é distribuído sob a licença MIT:
+O [recomendareforco.net](http://200.137.175.6:8080/recomendaprofessor/professor/index) é distribuído sob a licença MIT:
 
 www.opensource.org/licenses/MIT
 
